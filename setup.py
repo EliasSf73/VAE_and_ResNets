@@ -15,7 +15,7 @@ setup(
     name='MLPROJECT',
     version='0.0.1',
     author='elias',
-    author_email='eliassfirisa@gmail.com',
+    author_email='xxxxxxx@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     description="This is an ML Project"
 )
